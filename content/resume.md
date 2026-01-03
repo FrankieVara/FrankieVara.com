@@ -1,0 +1,5 @@
++++
+date = '2026-01-03T14:02:32-08:00'
+draft = true
+title = 'Resume'
++++

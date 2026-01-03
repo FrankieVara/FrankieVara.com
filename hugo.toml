@@ -1,0 +1,20 @@
+baseURL = "https://frankievara.com/"
+languageCode = "en-us"
+title = "Francisco Vara"
+theme = "PaperMod"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Resume"
+    url = "/resume/"
+    weight = 2
+
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 3
